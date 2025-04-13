@@ -140,6 +140,7 @@ class LoginController extends ChangeNotifier {
     otpController.clear();
     newPasswordController.clear();
     confirmPasswordController.clear();
+    //changes
   }
 
   @override
